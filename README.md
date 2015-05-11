@@ -24,3 +24,4 @@ Features:
 - Threads and memory management
 - Round Robin scheduler
 - Semaphores
+- Executable code in user.c (available tests for each syscall already exist)
